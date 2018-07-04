@@ -530,7 +530,7 @@ section {
 /* CALL TO ACTION
 -------------------------------------------------- */
 .cta-block {
-	background: url("../img/cta-bg.jpg") repeat;
+	background: url("../img/1.jpg") repeat;
 	padding: 30px 0;
 	color: #fff;
 	text-transform: capitalize
@@ -640,7 +640,7 @@ section {
 /* QA SECTION
 -------------------------------------------------- */
 .qa-section {
-	background: url(../img/section-bg-white.jpg) no-repeat 0 bottom #f5f5f5;
+	background: url(../img/1.jpg) no-repeat 0 bottom #f5f5f5;
 	background-size: cover;
 }
 .qa-section h2 {
